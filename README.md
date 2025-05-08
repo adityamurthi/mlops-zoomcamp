@@ -1,2 +1,2 @@
 # mlops-zoomcamp
-Repository for MLOps
+Repository for MLOps-Zoomcamp
